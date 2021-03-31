@@ -1,0 +1,31 @@
+.react-datepicker-popper{
+    z-index:999 !important;
+}
+
+.custom-form-label{
+    font-size: 14px;
+    font-weight: 500 !important;
+}
+
+.radio-with-label{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.radio-with-label .form-group{
+    height: 100%;
+    display: flex;
+}
+
+.card-footer{
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+}
+
+.error-span{
+    color: #ff0000;
+    font-weight: 400;
+    font-size: 14px;
+}

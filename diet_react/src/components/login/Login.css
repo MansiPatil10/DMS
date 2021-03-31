@@ -1,0 +1,13 @@
+.login{
+    padding-top:50px;
+    width:300px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.lbl{
+    display:flex;
+    align-self: flex-start;
+}
